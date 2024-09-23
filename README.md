@@ -30,7 +30,7 @@
 
 1. **Clona este repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/conversor-de-monedas.git
+   git clone https://github.com/IvanEfibiger/conversor-de-monedas.git
 2. **Navega al directorio del proyecto:**
    ```bash
     cd conversor-de-monedas
